@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "name": "SHERLOC",
+      "salary": "2000",
+      "age": "24",
+      "id": 3
+    },
+    {
+      "name": "jaidev patel",
+      "salary": "20000",
+      "age": "24",
+      "id": 4
+    }
+  ]
+}
